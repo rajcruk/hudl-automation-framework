@@ -1,0 +1,8 @@
+{
+    "url":"https://www.hudl.com/login",
+    "userName":"<your_username>",
+    "password":"<your_password>",
+    "displayName":"<your_display_name_after_login> Ex. Coach N",
+    "invalidUserName":"user@testmail.com",
+    "invalidPasword":"invalidPassword"
+}
